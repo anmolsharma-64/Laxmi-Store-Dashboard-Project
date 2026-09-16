@@ -134,8 +134,7 @@ The dashboard allows users to understand:
 
 ### Dashboard Preview
 
-![Excel Sales Dashboard](Dashboard.png)
-
+SS_dashboard.png
 ---
 
 ## 🛠️ Tools & Techniques Used
