@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an **E-Commerce Sales Analysis Dashboard created using Microsoft Excel**.
+This project is an ** Laxmi Store E-Commerce Sales Analysis Dashboard created using Microsoft Excel**.
 
 The project focuses on transforming raw sales data into a clean and structured dataset, performing data analysis using Excel, and creating an interactive dashboard to understand sales performance, customer behavior, order status, sales channels, and geographical performance.
 
