@@ -133,8 +133,7 @@ The dashboard allows users to understand:
 * Sales channel performance
 
 ### Dashboard Preview
-![Laxmi Store Dashboard]
-(SS_dashboard.png)
+![Laxmi-Store Dashboard](SS_dashboard.png)
 
 ---
 
